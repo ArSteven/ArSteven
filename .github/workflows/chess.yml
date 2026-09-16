@@ -7,11 +7,8 @@ on:
 jobs:
   chess:
     runs-on: ubuntu-latest
-    if: |
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.issue.number == 1 && startsWith(github.event.comment.body, 'chess move '))
     steps:
       - uses: actions/checkout@v3
-      - uses: nicklegan/github-readme-chess-action@v1.0.0
+      - uses: tim-mango/github-chess-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
