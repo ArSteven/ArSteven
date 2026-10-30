@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Elver%20Steven%20Ariza&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Go%20·%20Angular%20·%20PostgreSQL&descAlignY=58&descSize=16&descColor=aaaaaa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Elver%20Steven%20Ariza%20Gonz%C3%A1lez&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Go%20·%20Angular%20·%20PostgreSQL&descAlignY=58&descSize=16&descColor=aaaaaa)
 
 </div>
 
@@ -23,7 +23,7 @@ Analista Programador at **CulturaSoft**, shipping production modules for an ente
 
 ### Also
 
-**[Proyecto-Iot](https://github.com/ArSteven/Proyecto-Iot)** — ESP32 egg grader: weighs each egg with a load cell, classifies it by Colombian grade and routes it with two servos. Non-blocking state machine, telemetry over MQTT.
+**[clasificador-huevos-esp32](https://github.com/ArSteven/clasificador-huevos-esp32)** — ESP32 egg grader: weighs each egg with a load cell, classifies it by Colombian grade and routes it with two servos. Non-blocking state machine, telemetry over MQTT.
 
 ---
 
@@ -32,14 +32,6 @@ Analista Programador at **CulturaSoft**, shipping production modules for an ente
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=go,angular,ts,postgres,js,docker,git,linux,arduino&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArSteven&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArSteven&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
